@@ -1,4 +1,4 @@
-The following code has been used to create the figures and tables in the paper "Tool use by New World Halichoeres wrasses" by Tariel-Adam et al. 2025.    
+The following code has been used to create the figures and tables in the paper "Tool use by New World Halichoeres wrasses" by Tariel-Adam et al. 2025 published in Coral Reefs https://doi.org/10.1007/s00338-025-02633-w
 There are two R scripts "Create-table.R" and "Create-map.R".
 
 # Create-table.R
